@@ -1,4 +1,4 @@
----
+---infinix note40
 manufacturer:
     - general
 ---
